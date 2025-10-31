@@ -9,7 +9,7 @@
 /* --- BACKGROUND --- */
 body {
   height: 100vh;
-  background: url("images/OIP.jpeg") no-repeat center center/cover;
+  background: url("OIP.jpeg") no-repeat center center/cover;
   background-attachment: fixed;
   display: flex;
   justify-content: center;
@@ -120,3 +120,4 @@ h2 {
 .footer a:hover {
   text-decoration: underline;
 }
+
